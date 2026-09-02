@@ -2,9 +2,7 @@
 
 A simple passenger counting web application built using **HTML, CSS, and JavaScript**. It allows users to increment and track the number of passengers easily.
 
-## 🚀 Live Demo
 
-[View Live Website](https://passenger-counter-webs.netlify.app/)
 
 ## ✨ Features
 
