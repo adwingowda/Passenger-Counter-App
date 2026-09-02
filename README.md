@@ -1,27 +1,26 @@
 # Passenger Count App
 
-A simple web application that allows users to count and track the number of passengers.
+A simple passenger counting web application built using **HTML, CSS, and JavaScript**. It allows users to increment and track the number of passengers easily.
 
-## Features
+## 🚀 Live Demo
 
-* Add passenger count
-* Reset the count
-* Displays the current passenger count
-* Simple and user-friendly interface
+[View Live Website](https://passenger-counter-webs.netlify.app/)
 
-## Technologies Used
+## ✨ Features
 
-* HTML
-* CSS
+* Increment passenger count
+* Display current passenger count
+* Save previous passenger entries
+* Simple and clean user interface
+* Responsive design
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
 * JavaScript
 
-## How to Run
-
-1. Clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
-## Project Structure
+## 📂 Project Structure
 
 ```text
 Passenger-Count-App/
@@ -30,6 +29,18 @@ Passenger-Count-App/
 └── script.js
 ```
 
-## Author
+## ▶️ How to Run
+
+1. Clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+## 🌐 Deployment
+
+The application is deployed using **Netlify**.
+
+**Live:** https://passenger-counter-webs.netlify.app/
+
+## 👨‍💻 Author
 
 **Adwin**
